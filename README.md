@@ -1,11 +1,8 @@
-# Joncarter
+# Azizul 
 Beautiful HTML,CSS and Bootstrap Portfolio
 
-# Demo
-- https://joncarter.netlify.app/
 
-# Clone Project
-- https://github.com/SA7MAN/joncarter
+
 
 # Features
 - Fully Responsive
@@ -23,5 +20,3 @@ Beautiful HTML,CSS and Bootstrap Portfolio
 - https://michalsnik.github.io/aos/
 
 
-# Watch more
-For more videos visit to my YouTube channel. [SA7MAN](https://www.youtube.com/c/SA7MAN)
